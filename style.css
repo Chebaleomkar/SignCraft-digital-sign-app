@@ -1,0 +1,22 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.container3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#signCanvas{
+    border: 2px solid;  
+}
